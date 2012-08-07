@@ -9,13 +9,13 @@ void another_function(int i)
 /* Yet another function */
 void yet_another_function()
 {
-    printf("Yet another function.\n");
+    printf("YET ANOTHER FUNCTION.\n");
 }
 
 /* Main function */
 int main()
 {
-    printf("Hello world!\n");
+    printf("HELLO WORLD!\n");
     another_function(1);
     yet_another_function();
     exit(0);
