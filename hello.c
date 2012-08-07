@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /* Another function */
-void another_function()
+void another_function(int i)
 {
-    printf("Another function.\n");
+    printf("Another function(%d).\n", i);
 }
 
 /* Yet another function */
@@ -16,6 +16,6 @@ void yet_another_function()
 int main()
 {
     printf("Hello world!\n");
-    another_function();
+    another_function(1);
     yet_another_function();
 }
