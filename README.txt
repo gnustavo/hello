@@ -1,3 +1,3 @@
 hello - a cheerful greeting.
 
-another line
+another line.
