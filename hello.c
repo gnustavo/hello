@@ -16,4 +16,6 @@ void yet_another_function()
 int main()
 {
     printf("Hello world!\n");
+    another_function();
+    yet_another_function();
 }
