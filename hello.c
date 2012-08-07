@@ -18,4 +18,5 @@ int main()
     printf("Hello world!\n");
     another_function(1);
     yet_another_function();
+    exit(0);
 }
