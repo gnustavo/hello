@@ -9,7 +9,7 @@ void another_function()
 /* Yet another function */
 void yet_another_function()
 {
-    printf("Yet another function\n");
+    printf("Yet another function.\n");
 }
 
 /* Main function */
